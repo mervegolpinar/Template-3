@@ -1,0 +1,922 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.container-w{
+	
+    width: 100%;
+    max-width: 1109px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.mr-t-negative-65{
+	margin-top: -65px;
+}
+.beauty-menu{
+	margin-top: 25px;
+}
+.beauty-menu> h1{
+	font-size: revert;
+    font-family: sans-serif;
+}
+.welcome-bg{
+	margin-top: 12px;
+    background: url(../image/1.png) no-repeat center center;
+	height: 655px;
+    width: 100%;
+    background-size: cover;
+}
+.beauty-menu>.icon-m{
+	float: right;
+    margin-top: -37px;
+}
+.beauty-menu>.icon-m>img{
+	width: 35px;
+}
+.bea-salon{
+	padding-top: 208px;
+}
+.bea-salon> h1{
+    font-size: 105px;
+    font-weight: inherit;
+}
+.bea-salon>p{
+	font-size: 27px;
+    font-family: initial;
+    padding-top: 20px;
+	line-height: 37px;
+}
+.welcome-bg .learnmore{
+	height: 30px;
+    width: 113px;
+    background-color: #fbd2c0 !important;
+    border: none;
+	padding: 8px 15px;
+	margin-top: 50px;
+}
+.learnmore:hover{
+	background-color: aliceblue;
+	border: none;
+	padding: 8px 15px;
+	margin-top: 50px;
+	height: 30px;
+    width: 113px;
+}
+.learnmore>p{
+	font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 7px;
+    padding-top: 7px;
+}
+.first-line{
+	display: flex;
+	width: 100%;
+    flex-wrap: wrap;
+}
+.first-line .uniqe1{
+	background-color: #fbd2c0;
+}
+.first-line .uniqe2{
+	background-color: black;
+}
+.first-line .uniqe1{
+	width:25%;
+}
+.first-line .uniqe1 >h1{
+	font-size: 30px;
+    line-height: 69px;
+    text-align: center;
+    padding-top: 65px;
+	font-weight: 500;
+}
+
+.img-1{
+	background-image: url(../image/2.png);
+}
+.img-2{
+	background-image: url(../image/3.png);
+}
+.img-3{
+	background-image: url(../image/4.png);
+}
+.img-4{
+	background-image: url(../image/5.png);
+}
+.first-line>.uniqe1>p{
+	font-family: system-ui;
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+	line-height: 25px;
+	padding-bottom: 65px;
+}
+.first-line>.uniqe1>.hr-black{
+	width: 53px;
+    height: 3px;
+    background-color: black;
+    margin: 20px auto;
+}
+.first-line .uniqe2{
+	width: 25%;
+}
+.first-line img{
+	width: 100%;
+}
+.first-line .img{
+	width: 25%;
+	background-position:50% 50%;
+	background-size: cover;
+}
+.first-line .uniqe2>h1{
+	color: white;
+    font-size: 30px;
+    line-height: 69px;
+    padding-top: 65px;
+    font-weight: 500;
+    text-align: center;
+}
+.first-line>.uniqe2>.hr-white{
+	width: 53px;
+    height: 3px;
+    background-color: white;
+    margin: 20px auto;
+}
+.first-line>.uniqe2>p{
+	color: white;
+    font-family: system-ui;
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+    line-height: 25px;
+    padding: 0px 10px 65px 10px;
+
+}
+.first-line .uniqe2>.color{
+	color: black;
+	font-size: 30px;
+    line-height: 69px;
+    padding-top: 65px;
+    font-weight: 500;
+}
+.first-line .uniqe2>.hr-whitecolor{
+	width: 53px;
+    height: 3px;
+    background-color: black;
+    margin: 20px auto;
+}
+.first-line .uniqe2>.color-p{
+	font-family: system-ui;
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+	line-height: 25px;
+	color: black;
+}
+
+.advance-left{
+    position: relative;
+    margin-top: 50px;
+    width: 40%;
+    margin-bottom: 170px;
+    float: left;
+}
+.advance-left>.one-bg{
+    background-color: #fbd2c0;
+    margin-left: 130px;
+    position: absolute;
+    top: 100px;
+    height: 541px;
+    width: 427px;
+    opacity: 0.5;
+}
+.advance-left>.two-border{
+    border: 6px solid #fbd2c0;
+    position: relative;
+    max-height: 560px;
+    width: 388px;
+    height: 100%;
+}
+.advance-left > img {
+    width: 100%;
+    position: absolute;
+    top: 40px;
+    left: 37px;
+}
+
+.massagediv .advance-left .one-bg{
+    width: 458px;height: 475px;top: 160px;margin-left: 215px;
+}
+.massagediv .advance-left .two-border{
+    width: 480px;height: 65%; margin-left: 40px; margin-top: 88px;
+}
+.massagediv .advance-left .img-style{
+    position: absolute;top: 15px;width: 480px;object-fit: cover;padding-left: 108px;
+}
+
+.advance-right{
+    float: right;
+    padding-top: 235px;
+}
+.advance-right>h1{
+    font-size: 60px;
+    font-weight: inherit;
+}
+.advance-right>.hr-black{
+    width: 53px;
+    height: 3px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.advance-right>p{
+    font-family: system-ui;
+    font-style: italic;
+    font-size: 17px;
+    line-height: 25px;
+}
+.advance-right>.learnmore2{
+    padding-top: 40px;
+}
+.advance-right>.learnmore2>a{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 42px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    border-bottom: 2px solid;
+    padding-bottom: 8px;
+    border-color: black;
+    color: black;
+}
+
+.products{
+    width: 100%;
+    display: flex;
+}
+.products-left{
+      width: 50%;
+      background-image: url(../image/7.png);
+      background-size: cover;
+      min-height: 641px;
+}
+
+.products-right{
+    
+    width: 50%;
+    background-image: url(../image/8.png);
+}
+.products-right>p{
+    font-family: system-ui;
+    font-size: 17px;
+    line-height: 25px;
+    padding-left: 55px;
+}
+
+.products-right>h1{
+    font-size: 60px;
+    font-weight: inherit;
+    padding-top: 186px;
+    padding-left: 55px;
+}
+.products-right>.hr-black{
+    width: 53px;
+    height: 3px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 55px;
+}
+.products-right>.learnmore{
+    height: 30px;
+    width: 130px;
+    background-color: black !important;
+    border: none;
+    padding: 8px 15px;
+    margin-top: 50px;
+    margin-left: 55px;
+    color: white;
+}
+.products-right>.learnmore>p{
+    font-weight: 200;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 12px;
+    padding-top: 7px;
+    letter-spacing: 0.8px;
+}
+.container-w.learnmore:hover{
+    background-color: white;
+}
+.Happy-Clients{
+    margin-bottom: 100px;
+}
+.Happy-Clients>.comments{
+    display: flex;
+    flex-direction:row-reverse;
+}
+.Happy-Clients>h1{
+    font-size: 60px;
+    font-weight: inherit;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.Happy-Clients .comments .com-p p{
+    font-family: system-ui;
+    font-size: 17px;
+    line-height: 25px;
+    padding-left: 55px;
+}
+.Happy-Clients .comments .com-p {
+flex-basis: 30%;
+}
+
+.Happy-Clients .comments .com-p:nth-child(2){
+    padding-left: 67px;
+    padding-right: 68px;
+}
+.rose-bg{
+    background-image: url(../image/10.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 95%;
+}
+.rose-bg .beauty-flex{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 55px;
+    height: 80%;
+}
+.Beauty-Treatments-img>img{
+    width: 100%;
+    height: 100%;
+}
+.beauty-flex.beauty-flex.Beauty-Treatments-img{
+    flex-basis: 50%;
+}
+.beauty-flex>.Beauty-Treatments{
+    flex-basis: 58%;
+}
+.Beauty-Treatments{
+    background-color: black;
+    color: white;
+}
+.Beauty-Treatments .bea-border .bea-tre>h1{
+    font-size: 60px;
+    font-weight: inherit;
+    padding-top: 95px;
+    padding-left: 25px;
+}
+.Beauty-Treatments .bea-border .bea-tre p{
+    font-family: system-ui;
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 400;
+    padding-left: 25px;
+}
+.Beauty-Treatments .bea-border .bea-tre .hr-black{
+    width: 60px;
+    height: 3px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+.Beauty-Treatments>.bea-border{
+    border: 0.1px solid white;
+    margin-top: 45px;
+    margin-left: 43px;
+    width: 83%;
+    height: 82%;
+    padding-right: 8px;
+}
+.left-2{
+    float:left;
+    margin-top: 58px;
+}
+.right-2{
+    float: left;
+    padding-top: 230px;
+}
+.right-2>.hr-black>p{
+    font-style:normal;
+}
+.left-2>.img-style img{
+    width: 517px;
+}
+.end-bg{
+    background-image: url(../image/13.png);
+    background-image: linear-gradient(
+0deg, rgba(255,255,255,0.45), rgba(255,255,255,0.45)), url(../image/13.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clear: both;
+    padding: 80px 0px;
+}
+.end-bg>.make-reservation{
+    border: 2px solid black;
+    width: 50%;
+    height: 102%;
+    background-color: black;
+    margin: 0 auto;
+}
+.make-reservation>.white-border{
+    border: 0.1px solid white;
+    width: 88%;
+    height: 88%;
+    margin: 40px auto;
+}
+.reservation>h1{
+    font-size: 70px;
+    font-weight: inherit;
+    padding-top: 45px;
+    padding-left: 25px;
+    color: white;
+    text-align: center;
+}
+.reservation>.hr-white{
+    width: 60px;
+    height: 3px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.reservation .p-dec>p{
+    font-family: system-ui;
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    padding: 20px 21px;
+}
+.white-border .form-control{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form-control button{
+    height: 44px;
+    width: 135px;
+    background-color: #f2b39a !important;
+    border: none;
+    padding: 8px 15px;
+    margin-top: 5px;
+    color: black;
+    font-size: 17px;
+}
+.form-control input{
+    margin-bottom: 12px;
+    font-size: 15px;
+    padding-block-end: 15px;
+    padding: 12px;
+    clear: both;
+}
+.form-control .pbe-78{
+    padding-block-end: 95px;
+}
+.black-div{
+    background-color: black;
+    width: 100%;
+    height: 40%;
+}
+.black-div>.headline-column{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    font-size: 17px;
+    padding-top: 115px;
+}
+.black-div>.headline-column p{
+    font-family: system-ui;
+}
+.black-div .headline-column h1{
+    padding-bottom: 12px;
+}
+.black-div>.social-media{
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+}
+.black-div .social-media img{
+    width: 20px;
+    padding-right: 10px;
+}
+
+
+
+/*MEDİA QUERY*/
+@media screen and  (max-width:1100px) {
+    .container-w{
+        
+            width: 85%;
+            overflow: hidden;
+            margin: 0 auto;
+    }
+     
+    .advance-left>.one-bg{
+        height: 505px;
+        width: 311px;
+        margin-left: 68px;
+    }
+    .advance-left>.two-border{
+        width: 297px;
+    }
+    .advance-left > img{
+        width: 300px;
+        height: 500px;
+        object-fit: cover;
+    }
+    .advance-right{
+        width: 40%;
+    }
+}
+
+@media screen and  (max-width:990px) {
+  
+    
+    .first-line .uniqe1, .first-line .img, .first-line .uniqe2{
+        width: 50%;
+        flex-direction:column;
+    }
+    .first-line > div:nth-child(1){
+        order: 2;
+    }
+    .first-line> div:nth-child(2){
+        order: 1;
+    }
+    .first-line> div:nth-child(3){
+        order: 3;
+    }
+    .first-line> div:nth-child(4){
+        order: 4;
+    }
+    .dec-bg>.products-left{
+        background-image: url(../image/7-1.jpg);
+        width: 68%;
+    }
+    .products-right>h1{
+        padding-top: 58px;
+    }
+    .Beauty-Treatments>.bea-border{
+        margin-top: 25px;
+        margin-left: 31px;
+        width: 83%;
+        height: 87%;
+        padding-right: 8px; 
+    }
+    .beauty-flex>.Beauty-Treatments{
+        flex-basis: 65%;
+        height: 103%;
+    }
+    .Beauty-Treatments .bea-border .bea-tre>h1{
+        padding-top: 0px;
+        font-size: 55px;
+    }
+    .Beauty-Treatments .bea-border .bea-tre .hr-black{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .Beauty-Treatments .bea-border .bea-tre{
+        padding-top: 20px;
+    }
+    .Beauty-Treatments .bea-border .bea-tre>p{
+        font-size: 16px;
+    }
+    .Beauty-Treatments-img>img{
+        object-fit: cover;
+    }
+    .Happy-Clients>h1{
+        font-size: 67px;
+    }
+    .Happy-Clients .comments .com-p:nth-child(2){
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .Happy-Clients .comments .com-p p{
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .massagediv .advance-left .img-style{
+        width: 462px;
+        object-fit: cover;
+        padding-left: 80px;
+    }
+    .massagediv .advance-left .img-style img{
+        width: 375px;
+    }
+    .massagediv .advance-left .one-bg{
+        width: 225px;
+        height: 350px;
+    }
+    .massagediv .advance-left .two-border{
+        width: 321px;
+        height: 63%;
+        margin-left: 49px;
+        margin-top: 80px;
+    }
+    .massagediv .advance-right h1{
+        font-size: 40px;
+    }
+    .advance-right>.hr-black{
+        margin-top: 18px;
+        margin-bottom: 18px;
+        width: 43px;
+        height: 2px;
+    }
+    .end-bg>.make-reservation{
+        width: 86%;
+        height: 130%;
+    }
+    .black-div{
+        height: 53%;
+    }
+    .black-div>.headline-column p{
+        font-size: 15px;
+    }
+}
+
+@media screen and  (max-width:767px) {
+    .container-w{    
+    width: 75%;
+    }
+    .bea-salon{
+        padding-top: 87px;
+    }
+    .bea-salon> h1{
+        font-size: 92px;
+    }
+    .bea-salon>p{
+        font-size: 22px;
+    }
+    .welcome-bg{
+        height: 548px;
+    }
+    .mr-t-negative-65{
+        margin-top: -65px;
+    }
+    .first-line .img{
+        height: 310px;
+        width: 100%;
+    }
+    .welcome-bg .learnmore{
+        margin-top: 25px;
+    }
+    .first-line .uniqe1 , .first-line .uniqe2{
+        width: 100%;
+        flex-direction:column;
+    }
+    .first-line> div:nth-child(1){
+        order: 1;
+        height: 320px;
+    }
+    .first-line> div:nth-child(2){
+        order: 2;
+        height: 320px;
+    }
+    .first-line> div:nth-child(3){
+        height: 320px;
+    }
+    .first-line> div:nth-child(4){
+        order: 4;
+        height: 320px;
+    }
+    .line-2> div:nth-child(1){
+        order: 2;
+        height: 320px;
+    }
+    .line-2> div:nth-child(2){
+        order: 1;
+        height: 320px;
+    }
+    .line-2> div:nth-child(3){
+        order: 4;
+        height: 320px;
+    }
+    .line-2> div:nth-child(4){
+        order: 3;
+        height: 320px;
+    }
+    .advance-left>.two-border{
+        width: 338px;
+    }
+    .advance-left > img{
+        padding-left: 13px;
+        width: 350px;
+    }
+    .advance-left>.one-bg{
+        height: 517px;
+        width: 433px;
+        margin-left: 188px; 
+    }
+    .products{
+        width: 100%;
+        flex-flow: wrap;
+    }
+    .dec-bg{
+        padding-top: 100px;
+    }
+    .dec-bg>.products-left{
+        background-image: url(../image/7-2.jpg);
+        width: 100%;
+    }
+    
+    .products-right{
+        width: 100%;
+        height: 600px;
+    }
+    .products-right>h1{
+        font-size: 55px;
+        padding-top: 135px;
+    }
+    .happyy{
+        width: 95%;
+    }
+    .Happy-Clients>h1{
+        font-size: 56px;
+        margin: 0 auto;
+        width: 539px;
+    }
+    .Happy-Clients>.comments{
+        flex-flow: column-reverse;
+    }
+    .comments> div:nth-child(1){
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .comments> div:nth-child(2){
+        padding-top: 15px;
+        padding-bottom: 15px;
+
+    }
+    .Happy-Clients .comments .com-p:nth-child(2){
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .dec-w{
+        width: 80%;
+    }
+    .dec-w .Beauty-Treatments .bea-border{
+        height: 87%;
+        width: 87%;
+    }
+    .rose-bg{
+        height: 210%;
+    }
+    .rose-bg .beauty-flex{
+        flex-direction: column;
+    }
+    
+    .rose-bg .beauty-flex{
+        margin-top: 99px;
+        height: 90%;
+        margin-top: 65px;
+    }
+    .dec-w .beauty-flex .Beauty-Treatments-img{
+        padding-bottom: 65px;
+    }
+    .dec-w .Beauty-Treatments-img> img{
+        height: 115%;
+    }
+    .Beauty-Treatments .bea-border .bea-tre{
+        padding-top: 95px;
+    }
+    .massagediv{
+        width: 80%;
+        padding-top: 180px;
+    }
+    .advance-right{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    .massagediv .advance-left .one-bg{ 
+        width: 430px;
+        height: 430px;
+        margin-left: 158px;
+    }
+    .massagediv .advance-left .two-border{
+        width: 365px;
+        height: 75%;
+        margin-left: 0px;
+        margin-top: 80px;
+    }
+    .massagediv .advance-left .img-style{
+        width: 462px;
+        object-fit: cover;
+        padding-left: 80px;
+    }
+    .massagediv .advance-left .img-style img{
+        width: -webkit-fill-available;
+    } 
+}
+
+
+@media screen and  (max-width:580px) {
+    .bea-salon{
+        padding-top: 106px;
+    }
+    .bea-salon> h1{
+        font-size: 65px;
+    }
+    .bea-salon>p{
+        font-size: 16px;
+    }
+    .welcome-bg .learnmore{
+        margin-top: 55px;
+    }
+    .advance-left>.one-bg{
+        height: 517px;
+        width: 285px;
+        margin-left: 75px;
+    }
+    .advance-left>.two-border{
+        width: 264px;
+    }
+    .advance-left > img{
+        padding-left: 0px;
+        width: 286px;
+    
+    }
+    .dec-w{
+        height: 888px;
+    }
+    .dec-w .beauty-flex .Beauty-Treatments-img{
+        padding-bottom: 50px;
+    }
+    .dec-w .Beauty-Treatments .bea-border{
+        width: 82%;
+    }
+    .Beauty-Treatments .bea-border .bea-tre{
+        padding-top: 0px;
+    }
+    .Beauty-Treatments .bea-border .bea-tre>h1{
+        padding-top: 55px;
+        font-size: 40px;
+    }
+    .Happy-Clients>h1{
+        font-size: 48px;
+    margin: 0 auto;
+    width: 468px;
+    }
+    .rose-bg{
+        height: 945px;
+    }
+    .rose-bg .beauty-flex{
+        padding-bottom: 0px;
+    }
+    .massagediv .advance-left .one-bg{
+        width: 430px;
+        height: 340px;
+        margin-left: 158px;
+    }
+    .massagediv .advance-left .img-style img{
+        width: 273px;
+        height: 375px;
+        object-fit: cover;
+    }
+    .massagediv .advance-left .two-border{
+        width: 260px;
+        height: 62%;
+        margin-left: 40px;
+        margin-top: 80px;
+        }
+        .end-bg {
+            padding: 52px 0px;
+        }
+        .end-bg>.make-reservation{
+            width: 86%;
+            height: 810px;  
+        }
+        .reservation>h1{
+            font-size: 50px;
+        }
+        .reservation .p-dec>p{
+            font-size: 16px;
+    line-height: 23px;
+        }
+}
